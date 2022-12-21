@@ -1,3 +1,3 @@
 # inferring_continuity
 
-This repo is concerned with mapping discrete characteristic set data and contructing continuous axis models of n dimentions to represent data points geometrically and continuously. Stay tuned.
+This repo is concerned with mapping discrete characteristic set data to continuous n-dimensional vector spaces. Not sure if this is possible, but stay tuned.
